@@ -1,0 +1,22 @@
+{
+  "niche": [
+    {
+      "title": "This is anice blog",
+      "body": "very cool right?",
+      "author": "Moyo",
+      "id": 2
+    },
+    {
+      "title": "Gman",
+      "body": "He is good with react",
+      "author": "Gboyee",
+      "id": 3
+    },
+    {
+      "title": "Greatis depressed",
+      "body": "OPPPPPP",
+      "author": "Gboyega",
+      "id": 4
+    }
+  ]
+}
